@@ -1,7 +1,6 @@
-# MIUI Updates Tracker V2
+# MIUI Updates Tracker
 
-[![Subscibe](https://img.shields.io/badge/Telegram-Subscribe-blue.svg)](https://t.me/mi_trade)
-[![Discord](https://img.shields.io/discord/221706949786468353.svg?style=flat-square)](https://discord.gg/xiaomi)
+[![Subscibe](https://img.shields.io/badge/Telegram-Subscribe-red.svg)](https://t.me/mi_trade)
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
