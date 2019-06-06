@@ -11,11 +11,5 @@ A Script that automatically track Xiaomi MIUI ROM releases and send messages to 
 - Both Global and China ROMs are supported.
 - Script runs automatically every day!
 
-## r/Xiaomi
-We're part of [r/Xiaomi](https://www.reddit.com/r/Xiaomi/)'s discord server! Join us [Here](https://discord.gg/xiaomi)
-
-#### This script is a part of [Xiaomi Firmware Updater](https://github.com/XiaomiFirmwareUpdater) project.
-#### Developer: [yshalsager](https://github.com/yshalsager)
-
-#### XiaomiFirmwareUpdater Project is Supported By:
-[![Packet](https://raw.githubusercontent.com/XiaomiFirmwareUpdater/xiaomifirmwareupdater.github.io/master/images/Packet_logo_sm.png)](https://www.packet.net)
+#### This script is a part of [Xiaomi Firmware Updater](https://github.com/persian-XiaomiFirmwareUpdater.)project.
+#### Developer: [P@361](https://github.com/pa-361)
